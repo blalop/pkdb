@@ -1,11 +1,10 @@
 source "https://rubygems.org"
 
-# This is the default theme for new Jekyll sites
-gem "minima", "~> 2.5"
+gem "jekyll-theme-persephone"
 gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
