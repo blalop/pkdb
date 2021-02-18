@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Add existing remote to current git repo"
+title: "Revert last commit"
 date: "2021-02-18 22:59"
 categories: git
 ---
