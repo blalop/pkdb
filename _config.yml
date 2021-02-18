@@ -11,6 +11,7 @@ social:
 
 # logo: ""
 theme: jekyll-theme-persephone
+remote_theme: erlzhang/jekyll-theme-persephone  # for gh-pages
 theme_setting:
   blog_page: "index.md"
   about_page: "about.md"
