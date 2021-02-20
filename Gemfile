@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll-theme-persephone"
+gem "jekyll", "~> 3.9.0"
+gem "jekyll-theme-persephone", "~> 0.2.6"
 gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do

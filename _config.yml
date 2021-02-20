@@ -8,9 +8,10 @@ baseurl: /pkdb
 url: https://blalop.github.io/pkdb/
 social:
   github: blalop
+  linkedin: blalop
 
 # logo: ""
-remote_theme: erlzhang/jekyll-theme-persephone  # for gh-pages
+remote_theme: erlzhang/jekyll-theme-persephone
 theme_setting:
   blog_page: "index.md"
   about_page: "about.md"
